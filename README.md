@@ -140,7 +140,7 @@ src/
 Here are some screenshots of the project:
 
 ## index.jsp
-![Screenshot 2024-07-19 151431](https://github.com/user-attachments/assets/25af170a-74e4-4078-b7b2-8a47ce466744)
+![Screenshot 2024-07-19 151431](https://github.com/user-attachments/assets/7ec8b8ed-b55f-4836-ac89-113795eebc7b)
 
 ## add.jsp
 ![Screenshot 2024-07-19 151448](https://github.com/user-attachments/assets/f6a63a6f-2ec0-4be3-aef6-0e85bf6ee83c)
