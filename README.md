@@ -143,19 +143,23 @@ Here are some screenshots of the project:
 ![Screenshot 2024-07-19 151431](https://github.com/user-attachments/assets/7ec8b8ed-b55f-4836-ac89-113795eebc7b)
 
 ## add.jsp
-![Screenshot 2024-07-19 151448](https://github.com/user-attachments/assets/f6a63a6f-2ec0-4be3-aef6-0e85bf6ee83c)
+![Screenshot 2024-07-19 151448](https://github.com/user-attachments/assets/196f2aed-4386-424c-a492-2223b6764f63)
 
 ## search.jsp
-![Screenshot 2024-07-19 151503](https://github.com/user-attachments/assets/b85a4ded-a618-4f7b-a6eb-b8d817ff0574)
+![Screenshot 2024-07-19 151503](https://github.com/user-attachments/assets/ca17f25e-536d-4cf3-9101-086028b4030d)
+
 
 ## displayStudents.jsp
-![Screenshot 2024-07-19 151517](https://github.com/user-attachments/assets/4b6cef61-4967-4d0f-beb5-dd610568828c)
+![Screenshot 2024-07-19 151517](https://github.com/user-attachments/assets/9c84bb10-eb8f-415c-a766-0f759d78d8dd)
+
 
 ## searchResults.jsp
-![Screenshot 2024-07-19 160556](https://github.com/user-attachments/assets/8c82ba29-aed0-453e-bdd9-bc21d29add56)
+![Screenshot 2024-07-19 160556](https://github.com/user-attachments/assets/f7a59bd0-8a96-4734-adfe-a784b94d331d)
+
 
 ## UpdateStudentDetails.jsp
-![Screenshot 2024-07-19 160618](https://github.com/user-attachments/assets/7fc39f94-1648-4ae0-b9f8-1a4755c9c3af)
+![Screenshot 2024-07-19 160618](https://github.com/user-attachments/assets/396ccfbc-4de1-4a2a-9d3f-726ab0686272)
+
 
 
 ## Contact
